@@ -8,8 +8,5 @@
 
 - 🔭 I’m currently studying **Information System** at University Muhammadiyah Banten
 - 🌱 I’m currently learning **React JS**
-<!---
-- ⚙️ Mastering: `.html`,`.css`,`.js`,`.php`
-- 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
---->
+<!--- - ⚙️ Mastering: `.html`,`.css`,`.js`,`.php` - 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects --->
 - 💬 I'm mostly active within the **Facebook**, **Instagram** and **Youtube** communities
