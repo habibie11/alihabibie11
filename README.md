@@ -1,4 +1,4 @@
-# Hello, I'm Ali Habibi AKA Mahbubie! 👋
+# Hello, I'm Ali Habibie AKA Mahbubie! 👋
 
 ![HTML](https://img.shields.io/badge/HTML-intermediate-orange)
 ![CSS](https://img.shields.io/badge/CSS-Advanced-blue)
