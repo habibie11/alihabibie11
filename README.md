@@ -2,7 +2,7 @@
 
 ![HTML](https://img.shields.io/badge/HTML-intermediate-orange)
 ![CSS](https://img.shields.io/badge/CSS-Advanced-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-Average-yellow)
 ![TypeScript](https://img.shields.io/badge/PHP-Advanced-lightblue)
 
 - 🔭 I’m currently studying **Information System** at University Muhammadiyah Banten
